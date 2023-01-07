@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">Click Here</string>
+    <string name="chinese">Chinese</string>
+    <string name="todo">TODO</string>
+    <string name="add_food">Add Food</string>
+    <string name="add_new_food">Add new Food..</string>
+    <string name="addfood">Button</string>
+</resources>
